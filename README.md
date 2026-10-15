@@ -1,6 +1,8 @@
 # Portfolio of Joseph Andrew P. Sacil
 
-A personal portfolio website made with **HTML, CSS and JavaScript**.
+**AI Tools Acknowledgment**
+
+ChatGPT was my primary AI tool for coding assistance, debugging, and improving the structure of my website. Other AI tools, such as Google Gemini, Claude, and GitHub Copilot, may also be used to support coding ideas, problem-solving, and code improvements. All generated code was reviewed and customized to fit the requirements of my portfolio.**.
 
 ## Folder structure
 
